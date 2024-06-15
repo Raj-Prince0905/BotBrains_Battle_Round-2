@@ -10,4 +10,4 @@ This project explores key aspects of designing, enhancing, and programming TWSBR
 - `README.md`: Overview of the project.
 - `Documentation.pdf`: Detailed documentation covering ideation, theory, calculations, diagrams, and references.
 - `Code.ipynb`: Python code implementing the robot’s navigation and balancing algorithm.
-- `Part_AB_C_Solutions.docx`: Solutions to parts a, b, and c of the questions.
+- `Part_AB_C_Solutions.pdf`: Solutions to parts a, b, and c of the questions.
